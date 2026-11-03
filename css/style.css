@@ -30,7 +30,7 @@ box-shadow:inset 8px 8px 8px #cbcef1,
 }
 .btnS{
     width: 100%;
-    margin-top: 1.7em;
+    margin: 1.7em;
     display: flex;
     justify-content: center;
     align-items: center;
