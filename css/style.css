@@ -37,7 +37,7 @@ box-shadow:inset 8px 8px 8px #cbcef1,
     flex-direction: column;
 }
 .btnS .row button{
-    width: 80px;
+    width: 100px;
     height: 30px;
     font-size: 16px;
     border: none;
