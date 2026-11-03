@@ -31,13 +31,14 @@ box-shadow:inset 8px 8px 8px #cbcef1,
 .btnS{
     width: 100%;
     margin-top: 1.7em;
+    margin-bottom: 1.7em;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .btnS .row button{
-    width: 100px;
+    width: 80px;
     height: 30px;
     font-size: 16px;
     border: none;
